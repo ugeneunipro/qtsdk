@@ -157,7 +157,7 @@ def get_build_env(openssl_dir):
 ###############################
 class IfwOptions:
 
-    default_qt_src_pkg                          = 'http://download.qt.io/official_releases/qt/' + QT_VERSION + '/' + QT_VERSION_MINOR + '/single/qt-everywhere-src-' + QT_VERSION_MINOR + ARCH_EXT
+    default_qt_src_pkg                          = 'https://download.qt.io/official_releases/qt/' + QT_VERSION + '/' + QT_VERSION_MINOR + '/single/qt-everywhere-src-' + QT_VERSION_MINOR + ARCH_EXT
     default_qt_installer_framework_url          = 'git://code.qt.io/installer-framework/installer-framework.git'
     default_qt_installer_framework_branch_qt    = '3.2'
     default_qt_installer_framework_qmake_args   = ['-r', '-config', 'release', '-config', 'static']
