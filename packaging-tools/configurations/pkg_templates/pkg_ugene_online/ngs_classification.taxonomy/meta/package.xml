@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>Taxonomy classification</DisplayName>
+	<Description>The component contains NCBI taxonomy classification data. It is required to download the data in order to run other NGS classification tools.</Description>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2017-12-08</ReleaseDate>
+	<SortingPriority>100</SortingPriority>
+	<Script>installscript.qs</Script>
+</Package>
+

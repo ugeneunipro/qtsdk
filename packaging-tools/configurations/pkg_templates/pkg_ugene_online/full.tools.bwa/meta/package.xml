@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>BWA</DisplayName>
+    <Description>Burrows-Wheeler Aligner is a software package for mapping low-divergent sequences against a large reference genome, such as the human genome.</Description>
+    <Version>%PKG_FULL_TOOLS_BWA_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_BWA_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="BWA: GNU GPLv3" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>88</SortingPriority>
+</Package>

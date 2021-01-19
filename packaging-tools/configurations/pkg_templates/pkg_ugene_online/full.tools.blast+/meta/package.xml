@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>BLAST+</DisplayName>
+    <Description>BLAST+: Basic Local Alignment Search Tool.</Description>
+    <Version>%PKG_FULL_TOOLS_BLASTPLUS_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_BLASTPLUS_DATE%</ReleaseDate>
+    <Default>true</Default>
+    <SortingPriority>94</SortingPriority>    <Licenses>
+        <License name="BLAST/BLAST+: PUBLIC DOMAIN NOTICE" file="license.txt" />
+    </Licenses>
+</Package>

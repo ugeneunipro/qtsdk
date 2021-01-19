@@ -1,0 +1,13 @@
+<Package>
+    <DisplayName>UGENE executables</DisplayName>
+    <Description>UGENE executables.</Description>
+    <Default>true</Default>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Version>35.1</Version>
+    <ReleaseDate>2019.02.20</ReleaseDate>
+    <Licenses>
+        <License file="license.txt" name="UGENE: GNU GPLv2" />
+    </Licenses>
+    <SortingPriority>100</SortingPriority>
+    <Script>installscript.qs</Script>
+</Package>

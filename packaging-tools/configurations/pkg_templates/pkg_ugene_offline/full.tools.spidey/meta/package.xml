@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Spidey</DisplayName>
+    <Description>Spidey is an mRNA-to-genomic alignment program.</Description>
+    <Version>1</Version>
+    <ReleaseDate>2016-02-02</ReleaseDate>
+    <Script>installscript.qs</Script>
+    <Default>true</Default>
+    <SortingPriority>60</SortingPriority>
+</Package>

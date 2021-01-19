@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>ClustalW2</DisplayName>
+    <Description>ClustalW2 is a general purpose DNA or protein multiple sequence alignment program for three or more sequences.</Description>
+    <Version>%PKG_FULL_TOOLS_CLUSTALW_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_CLUSTALW_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="ClustalW2: GNU LGPLv3" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>82</SortingPriority>
+</Package>

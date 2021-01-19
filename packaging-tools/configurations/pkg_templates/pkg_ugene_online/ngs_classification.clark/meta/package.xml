@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>Classification with CLARK</DisplayName>
+	<Description>CLARK (CLAssifier based on Reduced K-mers) is a tool for taxonomy classification of metagenomic NGS data. Databases with viral and viral+bacterial NCBI RefSeq data are provided by default for CLARK-l variant of the tool launched with default parameters. One can also build a custom database.</Description>
+	<Version>1.31.0</Version>
+	<ReleaseDate>2018-08-17</ReleaseDate>
+	<SortingPriority>70</SortingPriority>
+</Package>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Standard package</DisplayName>
+    <Description>Standard package contains executables and data of Unipro UGENE.</Description>
+    <Default>true</Default>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Version>%PKG_UGENE_VERSION%</Version>
+    <ReleaseDate>%PKG_UGENE_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="UGENE: GNU GPLv2" file="license.txt" />
+    </Licenses>
+    <SortingPriority>100</SortingPriority>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>createshortcutcheckboxform.ui</UserInterface>
+    </UserInterfaces>
+</Package>

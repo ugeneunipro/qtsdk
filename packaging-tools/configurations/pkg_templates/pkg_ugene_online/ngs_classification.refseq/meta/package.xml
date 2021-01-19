@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>RefSeq reference data</DisplayName>
+	<Description>Check this component to download NCBI RefSeq bacterial, viral and human data. The data can be used to build a database for CLARK. To build a database for Kraken unpack the data first.</Description>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2018-08-06</ReleaseDate>
+	<SortingPriority>90</SortingPriority>
+</Package>
+

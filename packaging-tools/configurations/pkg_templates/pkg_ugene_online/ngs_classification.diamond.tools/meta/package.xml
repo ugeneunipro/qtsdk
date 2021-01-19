@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>DIAMOND external tools</DisplayName>
+	<Description>Check this component to install DIAMOND executables.</Description>
+	<Dependencies>ngs_classification.taxonomy</Dependencies>
+	<Version>0.9.22.0.1</Version>
+	<ReleaseDate>2018-05-11</ReleaseDate>
+	<Licenses>
+		<License name="DIAMOND license" file="license.txt" />
+	</Licenses>
+	<SortingPriority>100</SortingPriority>
+</Package>
+

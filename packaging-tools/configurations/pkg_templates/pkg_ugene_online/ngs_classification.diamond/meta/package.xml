@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>Classification with DIAMOND</DisplayName>
+	<Description>In general, DIAMOND is a sequence aligner for protein and translated DNA searches similar to NCBI BLAST, but much faster. In UGENE it is integrated for taxonomy classification of metagenomic NGS data. Reference databases UniRef50 and UniRef90 are provided by default. One can also build a custom database.</Description>
+	<Version>1.31.0</Version>
+	<ReleaseDate>2018-08-17</ReleaseDate>
+	<SortingPriority>65</SortingPriority>
+</Package>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>MiniKraken database</DisplayName>
+	<Description>Check this component to download a MiniKraken DB_4GB database - a pre-built 4 GB database constructed from complete bacterial, archaeal, and viral genomes in RefSeq (as of Oct. 18, 2017). Note that it contains only 2.7% of kmers from the original database.</Description>
+	<Dependencies>ngs_classification.taxonomy</Dependencies>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2017-12-11</ReleaseDate>
+	<SortingPriority>90</SortingPriority>
+	<Script>installscript.qs</Script>
+</Package>
+

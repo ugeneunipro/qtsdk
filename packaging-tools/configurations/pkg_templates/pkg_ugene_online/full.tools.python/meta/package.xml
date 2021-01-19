@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Python</DisplayName>
+    <Description>Python is a widely used general-purpose, high-level programming language.</Description>
+    <Version>%PKG_FULL_TOOLS_PYTHON_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_PYTHON_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="Python: Python Software Foundation License" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>68</SortingPriority>
+</Package>

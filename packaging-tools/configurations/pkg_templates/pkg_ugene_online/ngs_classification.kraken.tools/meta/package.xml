@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>Kraken external tools</DisplayName>
+	<Description>Check this component to install Kraken executables.</Description>
+	<Dependencies>ngs_classification.taxonomy</Dependencies>
+	<Version>1.0.0.0.1</Version>
+	<ReleaseDate>2017-10-20</ReleaseDate>
+	<Licenses>
+		<License name="Kraken license" file="license.txt" />
+	</Licenses>
+	<SortingPriority>100</SortingPriority>
+</Package>
+

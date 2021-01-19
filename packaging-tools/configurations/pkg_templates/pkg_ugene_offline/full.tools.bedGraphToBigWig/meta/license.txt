@@ -1,0 +1,6 @@
+The UCSC Genome Browser and Blat software are free for academic, nonprofit, and personal use. A 
+license is required for commercial download and installation of these binaries.
+
+For information about commercial licensing of the Genome Browser software, see 
+http://genome.ucsc.edu/license/. The Blat and In-Silico PCR software may be commercially
+licensed through Kent Informatics (http://www.kentinformatics.com).

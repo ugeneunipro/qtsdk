@@ -1,0 +1,9 @@
+<Package>
+    <DisplayName>Cistrome</DisplayName>
+    <Description>External tools for the Cistrome workflow.</Description>
+    <Version>%PKG_NGS_CISTROMETOOL_VERSION%</Version>
+    <ReleaseDate>%PKG_NGS_CISTROMETOOL_DATE%</ReleaseDate>
+    <SortingPriority>2</SortingPriority>
+    <Replaces>full.tools.cistrome</Replaces>
+    <Dependencies>NGS.RScript</Dependencies>
+</Package>

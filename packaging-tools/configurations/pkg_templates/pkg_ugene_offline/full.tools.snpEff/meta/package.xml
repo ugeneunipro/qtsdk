@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>SnpEff</DisplayName>
+    <Description>Genetic variant annotation and effect prediction toolbox. It annotates and predicts the effects of variants on genes (such as amino acid changes).</Description>
+    <Version>4.3.8.0.1</Version>
+    <ReleaseDate>2016-12-16</ReleaseDate>
+    <Licenses>
+        <License name="SnpEff: GNU LGPLv3" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>64</SortingPriority>
+</Package>

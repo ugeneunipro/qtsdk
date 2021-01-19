@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>CAP3</DisplayName>
+    <Description>CAP3 Sequence Assembly Program.</Description>
+    <Version>%PKG_FULL_TOOLS_CAP3_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_CAP3_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="CAP3: Non-Commercial Use" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>86</SortingPriority>
+</Package>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>Classification with Kraken</DisplayName>
+	<Description>Kraken is a tool for taxonomy classification of metagenomic NGS data. A MiniKraken reference database is provided by default with the tool. One can also build a custom database.</Description>
+	<Version>1.31.0</Version>
+	<ReleaseDate>2018-08-17</ReleaseDate>
+	<SortingPriority>80</SortingPriority>
+</Package>
+

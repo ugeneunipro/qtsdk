@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Full package additions (include some NGS tools)</DisplayName>
+    <Description>The component contains a list of external tools, included into the UGENE Full package.</Description>
+    <Version>1.28.1</Version>
+    <ReleaseDate>2017-11-21</ReleaseDate>
+    <SortingPriority>90</SortingPriority>
+    <Default>true</Default>
+</Package>
+

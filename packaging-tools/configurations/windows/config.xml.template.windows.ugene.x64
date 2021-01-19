@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Unipro UGENE</Name>
+    <Version>%UGENE_VERSION%</Version>
+    <Title>Unipro UGENE Installer</Title>
+    <Publisher>Unipro</Publisher>
+    <ProductUrl>http://ugene.net</ProductUrl>
+    <StartMenuDir>Unipro UGENE</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/Unipro UGENE</TargetDir>
+    <AllowSpaceInPath>true</AllowSpaceInPath>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+    <InstallActionColumnVisible>true</InstallActionColumnVisible>
+
+    <RunProgram>@TargetDir@/ugeneui.exe</RunProgram>
+
+    <WizardDefaultWidth>768</WizardDefaultWidth>
+    <WizardDefaultHeight>480</WizardDefaultHeight>
+
+    <InstallerWindowIcon>ugene_128.png</InstallerWindowIcon>
+
+    <ControlScript>controller.js</ControlScript>
+
+    <WizardStyle>Modern</WizardStyle>
+    <Logo>ugene_logo_installer.png</Logo>
+
+    <MaintenanceToolName>setup</MaintenanceToolName>
+    <RemoteRepositories>
+        <Repository>
+            <Url>http://ugene.net/downloads/repoWin64</Url>
+            <Enabled>1</Enabled>
+            <DisplayName>UGENE general repository</DisplayName>
+        </Repository>
+    </RemoteRepositories>
+</Installer>

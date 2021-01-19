@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>PhyML</DisplayName>
+    <Description>A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood.</Description>
+    <Version>20120412.0.0.0.1</Version>
+    <ReleaseDate>2012-04-12</ReleaseDate>
+    <Licenses>
+        <License name="PhyML: GNU GPLv2" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>70</SortingPriority>
+</Package>

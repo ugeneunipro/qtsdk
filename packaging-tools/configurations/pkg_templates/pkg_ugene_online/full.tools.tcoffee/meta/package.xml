@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>T-COFFEE</DisplayName>
+    <Description>T-Coffee is a multiple sequence alignment package.</Description>
+    <Version>%PKG_FULL_TOOLS_TCOFFEE_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_TCOFFEE_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="T-Coffee: GNU GPLv3" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>58</SortingPriority>
+</Package>

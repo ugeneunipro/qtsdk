@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Data for the Cistrome workflow (for ChIP-Seq)</DisplayName>
+    <Description>Sample data for the Cistrome workflow.</Description>
+    <Version>%PKG_NGS_CISTROME_VERSION%</Version>
+    <ReleaseDate>%PKG_NGS_CISTROME_DATE%</ReleaseDate>
+    <SortingPriority>1</SortingPriority>
+</Package>

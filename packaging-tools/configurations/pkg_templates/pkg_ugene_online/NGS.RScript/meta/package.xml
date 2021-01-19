@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>RScript external tool</DisplayName>
+    <Description>RScript is an alternative front end for use R scripts.</Description>
+    <Version>%PKG_NGS_RSCRIPT_VERSION%</Version>
+    <ReleaseDate>%PKG_NGS_RSCRIPT_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="RScript: GNU GPL-2 | GPL-3" file="license.txt" />
+    </Licenses>
+    <SortingPriority>3</SortingPriority>
+</Package>

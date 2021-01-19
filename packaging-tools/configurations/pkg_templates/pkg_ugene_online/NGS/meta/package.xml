@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>NGS additions: ChIP-Seq data analysis</DisplayName>
+    <Description>The component contains external tools and reference data, required to analyze ChIP-Seq data with the Cistrome workflow.</Description>
+    <Version>%PKG_NGS_VERSION%</Version>
+    <ReleaseDate>%PKG_NGS_DATE%</ReleaseDate>
+    <SortingPriority>80</SortingPriority>
+    <Script>installscript.qs</Script>
+</Package>
+

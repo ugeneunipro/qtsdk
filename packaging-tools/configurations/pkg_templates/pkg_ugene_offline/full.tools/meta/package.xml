@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>External tools</DisplayName>
+    <Description>External tools.</Description>
+    <Version>1.28.1</Version>
+    <ReleaseDate>2017-11-21</ReleaseDate>
+    <SortingPriority>90</SortingPriority>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>

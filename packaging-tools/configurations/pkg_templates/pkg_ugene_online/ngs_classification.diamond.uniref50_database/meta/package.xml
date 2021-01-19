@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>UniRef50</DisplayName>
+	<Description>Check this component to download a DIAMOND database built with the UniRef50 protein database.</Description>
+	<Dependencies>ngs_classification.taxonomy</Dependencies>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2017-12-11</ReleaseDate>
+	<SortingPriority>90</SortingPriority>
+	<Script>installscript.qs</Script>
+</Package>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>HMMER</DisplayName>
+    <Description>HMMER is used for searching sequence databases for sequence homologs, and for making sequence alignments.
+    It implements methods using probabilistic models called profile hidden Markov models (profile HMMs).</Description>
+    <Version>3.3.1</Version>
+    <ReleaseDate>2020-07-25</ReleaseDate>
+    <Licenses>
+        <License name="HMMER: GNU GPLv3" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>75</SortingPriority>
+</Package>

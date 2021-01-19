@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>External tools</DisplayName>
+    <Description>External tools.</Description>
+    <Version>%PKG_FULL_TOOLS_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_DATE%</ReleaseDate>
+    <SortingPriority>90</SortingPriority>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>

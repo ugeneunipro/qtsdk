@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>TopHat</DisplayName>
+    <Description>TopHat is a fast splice junction mapper for RNA-Seq reads. It aligns RNA-Seq reads to mammalian-sized genomes using the ultra high-throughput short read aligner Bowtie, and then analyzes the mapping results to identify splice junctions between exons.</Description>
+    <Version>%PKG_FULL_TOOLS_TOPHAT_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_TOPHAT_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="TopHat: The Artistic License" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+    <SortingPriority>56</SortingPriority>
+</Package>

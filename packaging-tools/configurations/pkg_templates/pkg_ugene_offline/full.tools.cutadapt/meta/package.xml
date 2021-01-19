@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Cutadapt</DisplayName>
+    <Description>Cutadapt finds and removes adapter sequences, primers, poly-A tails and other types of unwanted sequence from your high-throughput sequencing reads.</Description>
+    <Version>1.7.1.0.1</Version>
+    <ReleaseDate>2014-11-25</ReleaseDate>
+    <Licenses>
+        <License name="Cutadapt: The MIT License" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>78</SortingPriority>
+    <Dependencies>full.tools.python</Dependencies>
+</Package>

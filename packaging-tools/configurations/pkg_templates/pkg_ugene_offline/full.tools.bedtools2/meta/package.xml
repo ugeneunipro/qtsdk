@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>BEDtools</DisplayName>
+    <Description>Flexible tools for genome arithmetic and DNA sequence analysis.</Description>
+    <Version>2.29.2</Version>
+    <ReleaseDate>2019-12-18</ReleaseDate>
+    <Licenses>
+        <License name="BEDtools: GNU GPLv2" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>98</SortingPriority>
+</Package>

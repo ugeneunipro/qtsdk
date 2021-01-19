@@ -1,0 +1,13 @@
+<Package>
+    <DisplayName>UGENE executables</DisplayName>
+    <Description>UGENE executables.</Description>
+    <Default>true</Default>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Version>%PKG_UGENE_UGENE_VERSION%</Version>
+    <ReleaseDate>%PKG_UGENE_UGENE_DATE%</ReleaseDate>
+    <Licenses>
+        <License file="license.txt" name="UGENE: GNU GPLv2" />
+    </Licenses>
+    <SortingPriority>100</SortingPriority>
+    <Script>installscript.qs</Script>
+</Package>

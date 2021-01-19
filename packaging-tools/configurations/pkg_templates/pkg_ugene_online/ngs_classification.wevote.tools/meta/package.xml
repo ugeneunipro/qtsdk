@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>WEVOTE external tools</DisplayName>
+	<Description>Check this component to install WEVOTE executables.</Description>
+	<Dependencies>ngs_classification.taxonomy</Dependencies>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2018-01-29</ReleaseDate>
+	<Licenses>
+		<License name="WEVOTE license" file="license.txt" />
+	</Licenses>
+	<SortingPriority>100</SortingPriority>
+</Package>
+

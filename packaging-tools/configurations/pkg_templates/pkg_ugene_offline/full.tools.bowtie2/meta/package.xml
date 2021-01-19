@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Bowtie2</DisplayName>
+    <Description>Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences.</Description>
+    <Version>2.4.2</Version>
+    <ReleaseDate>2020-05-10</ReleaseDate>
+    <Licenses>
+        <License name="Bowtie2: GNU GPLv3" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>90</SortingPriority>
+    <Dependencies>full.tools.python,full.tools.perl</Dependencies>
+</Package>

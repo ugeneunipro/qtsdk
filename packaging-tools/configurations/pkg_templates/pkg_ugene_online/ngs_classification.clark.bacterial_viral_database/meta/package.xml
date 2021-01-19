@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>RefSeq bacterial and viral genomes database</DisplayName>
+	<Description>Check this component to download a database with NCBI RefSeq bacterial and viral data for CLARK-l used with the default parameters.</Description>
+	<Dependencies>ngs_classification.taxonomy</Dependencies>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2017-12-11</ReleaseDate>
+	<SortingPriority>90</SortingPriority>
+	<Script>installscript.qs</Script>
+</Package>
+

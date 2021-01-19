@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Full package additions</DisplayName>
+    <Description>The component contains a list of external tools.</Description>
+    <Version>%PKG_FULL_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_DATE%</ReleaseDate>
+    <SortingPriority>90</SortingPriority>
+    <Default>true</Default>
+</Package>
+

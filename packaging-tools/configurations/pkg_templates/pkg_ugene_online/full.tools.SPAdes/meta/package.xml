@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>SPAdes</DisplayName>
+    <Description>SPAdes is intended for both standard isolates and single-cell MDA bacteria assemblies.</Description>
+    <Version>%PKG_FULL_TOOLS_SPADES_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_SPADES_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="SPAdes: GNU GPLv2" file="license.txt" />
+    </Licenses>
+    <Script>installscript.qs</Script>
+    <Default>false</Default>
+    <SortingPriority>62</SortingPriority>
+</Package>

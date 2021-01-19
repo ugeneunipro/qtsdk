@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Cufflinks</DisplayName>
+    <Description>Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples.</Description>
+    <Version>%PKG_FULL_TOOLS_CUFFLINKS_VERSION%</Version>
+    <ReleaseDate>%PKG_FULL_TOOLS_CUFFLINKS_DATE%</ReleaseDate>
+    <Licenses>
+        <License name="Cufflinks: Boost Software License, Version 1.0" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+    <SortingPriority>80</SortingPriority>
+</Package>

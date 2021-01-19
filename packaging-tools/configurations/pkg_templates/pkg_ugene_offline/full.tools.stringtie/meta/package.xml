@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>StringTie</DisplayName>
+    <Description>StringTie is an assembler of RNA-Seq alignments into potential transcripts.</Description>
+    <Version>1.3.4.4.1</Version>
+    <ReleaseDate>2018-02-25</ReleaseDate>
+    <Licenses>
+        <License name="StringTie: Artistic License 2.0" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>80</SortingPriority>
+</Package>

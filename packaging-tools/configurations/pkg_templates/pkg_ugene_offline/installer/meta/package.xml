@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>UGENE Maintenance Tool</DisplayName>
+    <Description>An installation and update tool for Unipro UGENE.</Description>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Virtual>true</Virtual>
+    <Essential>true</Essential>
+    <Version>3.2.3.1</Version>
+    <ReleaseDate>2020-07-07</ReleaseDate>
+    <SortingPriority>100</SortingPriority>
+    <Script>installscript.qs</Script>
+    <DownloadableArchives>content.7z</DownloadableArchives>
+</Package>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Trimmomatic</DisplayName>
+    <Description>Trimmomatic is a flexible read trimming tool for Illumina NGS data.</Description>
+    <Version>0.39</Version>
+    <ReleaseDate>2019-04-08</ReleaseDate>
+    <Licenses>
+        <License name="Trimmomatic: GNU GPLv3" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>79</SortingPriority>
+</Package>

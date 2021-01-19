@@ -1,0 +1,61 @@
+[PackageNamespace]
+name:                   ugene,full
+
+[PlatformIdentifier]
+identifier:             windows
+
+# for testing purposes
+[PackageIgnoreList]
+packages:
+
+[ConfigDir]
+template_name:          config_ugene
+
+[ConfigXml]
+template_name:          config.xml.template.windows.ugene.x64
+
+[PackageTemplates]
+template_dirs:          pkg_ugene_online
+
+[full]
+root_component:         yes
+
+[full.tools]
+[full.tools.bedGraphToBigWig]
+[full.tools.bedtools2]
+[full.tools.blast+]
+[full.tools.bowtie]
+[full.tools.bowtie2]
+[full.tools.bwa]
+[full.tools.CAP3]
+[full.tools.clustalo]
+[full.tools.clustalw]
+[full.tools.cufflinks]
+[full.tools.cutadapt]
+[full.tools.fastqc]
+[full.tools.hmmer]
+[full.tools.java]
+[full.tools.mafft]
+[full.tools.mrbayes]
+[full.tools.perl]
+[full.tools.phyml]
+[full.tools.python]
+[full.tools.snpEff]
+[full.tools.SPAdes]
+[full.tools.spidey]
+[full.tools.stringtie]
+[full.tools.tcoffee]
+[full.tools.tophat]
+[full.tools.trimmomatic]
+[full.tools.vcftools]
+
+[installer]
+
+[ugene]
+root_component:         yes
+
+[ugene.data]
+
+[ugene.ugene]
+
+

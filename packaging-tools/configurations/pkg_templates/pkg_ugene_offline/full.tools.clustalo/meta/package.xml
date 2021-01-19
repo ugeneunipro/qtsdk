@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>ClustalO</DisplayName>
+    <Description>Clustal Omega is the latest addition to the Clustal family.
+    It offers a significant increase in scalability over previous versions, allowing hundreds of thousands of sequences to be aligned in only a few hours.
+    It will also make use of multiple processors, where present.</Description>
+    <Version>1.2.4.0.1</Version>
+    <ReleaseDate>2016-12-20</ReleaseDate>
+    <Licenses>
+        <License name="ClustalO: GNU GPLv2" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <SortingPriority>84</SortingPriority>
+</Package>

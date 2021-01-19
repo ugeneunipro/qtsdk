@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Cistrome</DisplayName>
+    <Description>External tools for the Cistrome workflow.</Description>
+    <Version>2.0.8</Version>
+    <ReleaseDate>2016-02-02</ReleaseDate>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+    <SortingPriority>56</SortingPriority>
+</Package>

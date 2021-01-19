@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Package>
+	<DisplayName>Marker database (mpa_v20_m200)</DisplayName>
+	<Description>A database with ~1M unique clade-specific marker genes identified from ~17,000 reference genomes (~13,500 bacterial and archaeal, ~3,500 viral, and ~110 eukaryotic).</Description>
+	<Version>20</Version>
+	<ReleaseDate>2017-11-07</ReleaseDate>
+	<SortingPriority>0</SortingPriority>
+	<Script>installscript.qs</Script>
+</Package>

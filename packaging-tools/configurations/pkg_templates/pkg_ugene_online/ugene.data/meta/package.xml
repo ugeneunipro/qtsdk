@@ -1,0 +1,11 @@
+<Package>
+    <DisplayName>Data folder</DisplayName>
+    <Description>Data folder with examples of various data.</Description>
+    <Default>true</Default>
+    <Version>%PKG_UGENE_DATA_VERSION%</Version>
+    <Dependencies>ugene</Dependencies>
+    <ReleaseDate>%PKG_UGENE_DATA_DATE%</ReleaseDate>
+    <SortingPriority>100</SortingPriority>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Script>installscript.qs</Script>
+</Package>
